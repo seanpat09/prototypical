@@ -1,6 +1,6 @@
 'use strict'
-var username = 'scuevo@prologis.com.prototypical';
-var password = '2xws3cedlKsKQcO3fhW5ZhG0yEMkeaVya';
+var username = INSERT_USERNAME;
+var password = PASSWORD_WITH_TOKEN;
 
 module.exports = {
     username : username,
