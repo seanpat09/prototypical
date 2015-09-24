@@ -1,0 +1,17 @@
+Remember that you can report errors and get help in https://github.com/NicoSantangelo/sublime-gulp
+
+09-22-2015 17:34:
+/Users/seancuevo/Documents/workspace/prototypical/credentials.js:1
+rts, require, module, __filename, __dirname) { var username = scuevo@prologis.
+                                                                    ^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Module.require (module.js:365:17)
+    at require (module.js:384:17)
+    at Object.<anonymous> (/Users/seancuevo/Documents/workspace/prototypical/.sublime-gulp-tmp.js:5:13)
+    at Module._compile (module.js:460:26)
+    at Object.Module._extensions..js (module.js:478:10)

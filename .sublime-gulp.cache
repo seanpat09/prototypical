@@ -1,0 +1,1 @@
+{"/Users/seancuevo/Documents/workspace/prototypical/gulpfile.js":{"sha1":"45ebabefa3bb9cba5f0f21eab37a4f4dca2f0286","tasks":{"deploy":{"name":"deploy","dependencies":"buildPackage"},"buildPackage":{"name":"buildPackage","dependencies":""}}}}
